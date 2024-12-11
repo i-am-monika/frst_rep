@@ -1,10 +1,10 @@
 
 <<<<<<< HEAD
-ihello guys.....
-come on
+hello guys.....
+Welcome to github!
 =======
 okay fine. 
 
-ihello guys.......
+hello guys.......
 come on.
 >>>>>>> 0fdccfc (cmt)
